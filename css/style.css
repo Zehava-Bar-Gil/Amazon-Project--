@@ -314,26 +314,15 @@ end second nav & start product-categories
 .box .box-range{
     margin-right: 15px;
 }
-.box1{
+.box1 .box2 .box3{
     width: 60px;
     height: 60px;
     border: 1px solid grey;
     border-radius: 2px;
 
 }
-.box2{
-    width: 60px;
-    height: 60px;
-    border: 1px solid grey;
-    border-radius: 2px;
-}
-.box3{
-    width: 60px;
-    height: 60px;
-    border: 1px solid grey;
-    border-radius: 2px;
-    
-}
+
+
 .box .box-inside{ 
     color: #000000;
     font-size: 0.9rem;
@@ -365,12 +354,12 @@ end second nav & start product-categories
 }
 
 .main-info-details .a-spacing-small {
-    margin-bottom: 8px!important;
+    margin-bottom: 8px;
 }
 
 .main-info-details .a-span3 {
     width: 26.18%;
-    float: none!important;
+    float: none;
 }
 
 td, th {
@@ -378,8 +367,8 @@ td, th {
 }
 
 .main-info-details .a-size-base {
-    font-size: 14px!important;
-    line-height: 20px!important;
+    font-size: 14px;
+    line-height: 20px;
 }
 
 .main-info-details, .a-span9, .a-span9 {
@@ -387,7 +376,7 @@ td, th {
 }
 
 .main-info-details .a-spacing-small{
-    margin-bottom: 8px!important;
+    margin-bottom: 8px;
 }
 
 .a-text-bold{
@@ -588,6 +577,11 @@ start middle-grid & end main-grid img
     text-decoration: underline;
 }
 
+.carousel-grid .carousel-grid-container{
+    padding: 5px 0px;;
+    margin-left: 20px;
+}
+
 .carousel-grid-container h4 {
     font-size: 19px;
     color: #D37A21;
@@ -621,3 +615,4 @@ start middle-grid & end main-grid img
     color:#bb472a;
     font-weight: bold;
 }
+
